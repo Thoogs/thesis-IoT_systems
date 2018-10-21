@@ -1,0 +1,2 @@
+arduino_secrets.h #contains wifi info and other sensitive stuff
+.todos.json #contains todos for project
